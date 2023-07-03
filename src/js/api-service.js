@@ -11,7 +11,7 @@ export default class ApiService {
     
       url: 'https://pixabay.com/api/',
       params: {
-        key: '37780038-a77d261800e93f3c13ebbbffc',
+        key: '38049852-cb83e2df4065e65478ffbd208',
         q: `${this.searchQuery}`,
         image_type: 'photo',
         orientation: 'horizontal',
